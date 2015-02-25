@@ -1,0 +1,22 @@
+{
+  "name": "doc-to-xcel",
+  "version": "0.0.0",
+  "authors": [
+    "ROSS LIBBY <libtheross@gmail.com>"
+  ],
+  "keywords": [
+    "excel",
+    "word"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.3"
+  }
+}
